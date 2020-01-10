@@ -1,0 +1,21 @@
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+main {
+    background-image: url("pika.jpg");
+    background-size:cover;
+    display: flex;
+    flex-direction: column;
+}
+
+section{
+    display: flex;
+    flex-direction: row;
+}
+
+#titre {
+    display: flex;
+    justify-content: center;
+}
